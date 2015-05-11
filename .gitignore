@@ -1,0 +1,10 @@
+*.class
+out/
+.idea/workspace.xml
+.idea/tasts.xml
+.DS_Store
+*.iws
+*.war
+*.jar
+logs/
+target/

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng" yahoo:count="3" yahoo:created="2015-04-27T19:54:01Z" yahoo:lang="en-US"><results><rate id="USDEUR"><Name>USD/EUR</Name><Rate>0.9184</Rate><Date>4/27/2015</Date><Time>8:53pm</Time><Ask>0.9184</Ask><Bid>0.9184</Bid></rate><rate id="USDUAH"><Name>USD/UAH</Name><Rate>22.9550</Rate><Date>4/27/2015</Date><Time>8:53pm</Time><Ask>23.0100</Ask><Bid>22.9550</Bid></rate><rate id="EURUAH"><Name>EUR/UAH</Name><Rate>24.9951</Rate><Date>4/27/2015</Date><Time>8:53pm</Time><Ask>25.0560</Ask><Bid>24.9342</Bid></rate></results></query><!-- total: 38 -->
+<!-- pprd1-node1004-lh3.manhattan.bf1.yahoo.com -->
